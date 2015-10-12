@@ -1,0 +1,35 @@
+commit a222abbde6b4de4d575bf5819171633ce72865df
+Author: josueisahu <josueisahu93@gmail.com>
+Date:   Thu Oct 8 17:39:27 2015 -0600
+
+    cambio de color de pagina
+
+commit 197a209e23e8f91e2213d7eb9704ca153d31a36e
+Author: josueisahu <josueisahu93@gmail.com>
+Date:   Thu Oct 8 17:38:32 2015 -0600
+
+    pie de pagina agregado
+
+commit d6704a46a4598af0a5333e8711d11104a0e27b6a
+Author: josueisahu <josueisahu93@gmail.com>
+Date:   Thu Oct 8 17:34:26 2015 -0600
+
+    agrege imagen de mexico
+
+commit 28892613020ab684a2795b5cf8689555b1c73e5d
+Author: josueisahu <josueisahu93@gmail.com>
+Date:   Thu Oct 8 17:30:48 2015 -0600
+
+    agrege significado de mexico
+
+commit 9271a180c23f5d577bdcc38c30298c5f75b5299f
+Author: josue <josueisahu93@gmail.com>
+Date:   Tue Oct 6 17:56:19 2015 -0600
+
+    pagina con titulo agregado
+
+commit bc092ada2f574fdf2fe869e94f962339fb4d968e
+Author: josue <josueisahu93@gmail.com>
+Date:   Tue Oct 6 17:54:16 2015 -0600
+
+    pagina en blanco
